@@ -1,0 +1,14 @@
+#Copy to /etc/systemd/system/pollution-painter.service, check permissions, reload daemons and start / enable service to run at boot
+[Unit]
+Description=POLLUTION PAINTER
+
+[Service]
+User=root
+WorkingDirectory=/home/pi
+ExecStart=python /home/pi/pollution_painter/pollution_painter.py
+Restart=always
+
+[Install]
+After=network-online.target
+Wants=network-online.target
+WantedBy=multi-user.target

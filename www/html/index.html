@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <title>Airogram</title>
+        <link rel="stylesheet" href="/static/style.css">
+        <script src="/static/aframe.min.js"></script>
+        <script src="/static/aframe-particle-system-component.min.js"></script>
+        <script src="/static/aframe-ar.min.js"></script>
+        <script src="/static/aframe-extras.loaders.min.js"></script>
+        <script src="/static/merge-images.js"></script>
+        <script src="/static/script.js"></script>
+    </head>
+    <body>
+        <header>
+            Airogram
+        </header>
+        <a-scene embedded arjs='sourceType: webcam;' vr-mode-ui="enabled: false" id="mainDiv" screenshot="width: 1024; height: 512;">
+            <a-camera gps-camera rotation-reader> </a-camera>
+        </a-scene>
+        <footer class="container">
+            <div class="location">
+                Lat: <span id="latitude">__.___</span>
+                <br>
+                Long: <span id="longitude">__.____</span>
+            </div>
+            <div class="reading">
+                PM 2.5 = <span id="pm25">-</span> ug/m^3
+            </div>
+            <div>
+                <input type='button' id='but_screenshot' value='' onclick='screenshot();'><br/>
+            </div>
+            <div id="message-box">
+                AIROGRAM
+            </div>
+            <a href="#" id="download-link">DOWNLOAD</a>
+        </footer>
+    </body>
+</html>
