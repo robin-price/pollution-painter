@@ -13,6 +13,7 @@ Copy pollution-painter.service to /etc/systemd/system/
 pollution-painter.service, check permissions, reload daemons and start / enable service to run at boot.
 
 For webfront end install apache2
+
 Copy conf files to /etc/apache2
 Copy mycerts to /etc/ssl (needed for https so AFRAME AR will work - the first time you load page you'll have to add the cert)
 
