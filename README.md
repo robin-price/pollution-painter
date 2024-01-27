@@ -1,6 +1,6 @@
-# H1 Pollution Painter (pi 0 build)
+# Pollution Painter (pi 0 build)
 
-# H2 Overview
+## Overview
 The Pollution Painter is a digital light painter that allows you to visualise particulate pollution levels through long exposure photography. LEDs responding to the pollution levels draw particles of light to represent particles of pollution. The effect is as if the air has been put under a microscope and lit up allowing the invisible particulates to be seen.
 
 I built my first pollution painter in 2017 and have rebuilt, fixed and adapted it multiple times over the last seven years taking photographs of pollution levels around the world. You can read more about the original Air of the Anthropocene project here. 
