@@ -22,9 +22,9 @@ For my original device I used three roughly two metre long strips of WS2811 30 L
 
 | Item | Description | UK Supplier Link|
 |---|---|---|
-| Extensible fishing pole | I use this to fix the LED strip to sometimes with elastic bands, sometimes with bits of insulation tape | https://www.amazon.co.uk/dp/B017NQZZ2Q?psc=1&ref=ppx_yo2ov_dt_b_product_details |
-Pi zero W | Raspberry Pi MCU,  get one with the header socket | https://shop.pimoroni.com/products/raspberry-pi-zero-w?variant=39458414264403 |
-| Dotstar LED tape | 2m strip of 60 LED / m tape doubled back on itself to make a 1m strip of 120 LED / m | https://coolcomponents.co.uk/products/apa102-digital-white-addressable-led-weatherproof-strip-60-led-4m?_pos=3&_sid=9ca8ac2bc&_ss=r |
+| Extensible fishing pole | I use this to fix the LED strip to sometimes with elastic bands, sometimes with bits of insulation tape | [Amazon](https://www.amazon.co.uk/dp/B017NQZZ2Q?psc=1&ref=ppx_yo2ov_dt_b_product_details) |
+Pi zero W | Raspberry Pi MCU,  get one with the header socket | [Pimoroni](https://shop.pimoroni.com/products/raspberry-pi-zero-w?variant=39458414264403) |
+| Dotstar LED tape | 2m strip of 60 LED / m tape doubled back on itself to make a 1m strip of 120 LED / m | [Cool Components](https://coolcomponents.co.uk/products/apa102-digital-white-addressable-led-weatherproof-strip-60-led-4m?_pos=3&_sid=9ca8ac2bc&_ss=r) |
 | SDS011 | Nova PM 2.5 particulate sensor | https://www.amazon.co.uk/DollaTek-Precision-Quality-Detection-Sensors/dp/B07M6JWCWQ/ref=sr_1_7?crid=22VF69APUO84J&keywords=sds011+sensor&qid=1684939626&sprefix=sds0%2Caps%2C137&sr=8-7 |
 | USB Battery Charger | You need a model with two 2.4A USB A outlets | https://www.argos.co.uk/product/9215346?clickSR=slp:term:portable%20powerbank:3:65:1 |
 | 18 AWG Wire | Thicker wire used for supplying current for the LEDs, doubles up for the trigger button too | https://www.amazon.co.uk/dp/B08F7TS37H/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=76f6fa4d49e304c2faa58fe7688cfb49&content-id=amzn1.sym.5e63d04b-217e-48e0-b230-d463f07fd1e0%3Aamzn1.sym.5e63d04b-217e-48e0-b230-d463f07fd1e0&hsa_cr_id=9199782550402&pd_rd_plhdr=t&pd_rd_r=6cc08f30-8e42-4e47-82af-ac862e4f6c99&pd_rd_w=ckptd&pd_rd_wg=JEEPl&qid=1684939845&ref_=sbx_be_s_sparkle_mcd_asin_0_title&sr=1-1-e0fa1fdd-d857-4087-adda-5bd576b25987 |
