@@ -38,7 +38,7 @@ Pi zero W | Raspberry Pi MCU,  get one with the header socket | [Pimoroni](https
 | Trigger Button | Any push to make button will do but this one sits nicely in the palm and gets me into trouble in airports | [Amazon](https://www.ebay.co.uk/itm/183489050436?hash=item2ab8ccb744:g:~o8AAOSwH~Rbxd9s&amdata=enc%3AAQAIAAAA4DfdPIFduKhGQRBQqlutzerEKH9%2F6RNEZjn3Z1kiBCsYGR2ctrjclE3IUXqcaRgGcd21BOHa8dMSrNRLMSEdcvR8hGgifm7HTiAZDQQih%2BLAFkMDMtJ8I9nYrIM86AtwnPZPUj%2FCxqeo3dGiAmnypXUPrJp%2Baf69Xn0eZk9wmZ5floXd1YFs6a98tY8XZKHJsaQf9BK%2BfcbMPeeyZsW8JzsuVzeOx4bIH%2Fivni9QvIrsGG6%2FrnSxfQxfX3YroEnApZ4l475Ea4DLF8OX38hkdSGBovgHLPW%2B1ZgKeda6qsnL%7Ctkp%3ABk9SR_Tg-uKJYg) |
 | 1m Micro USB Cable | Connects and powers the pi from the battery pack, you probably have ten lying around already | [Pi Hut](https://thepihut.com/products/usb-to-micro-usb-cable-0-5m?variant=37979679293635) | 
 | Wrist strap | This is really a phone holder for runners but it provides a handy surface to hotglue electronic components to in order to make them "wearable". I invite readers to arrive at their own solutions | [Amazon](https://www.amazon.co.uk/dp/B08X7FX673?psc=1&ref=ppx_yo2ov_dt_b_product_details)|
-| Arduino Pro Mini (5V version) | [Cool Components](This programs the LEDs better than the pi can | https://coolcomponents.co.uk/products/arduino-pro-mini-328-3-3v-8mhz?_pos=3&_sid=6a4299cc2&_ss=r) |
+| Arduino Pro Mini (5V version) | This programs the LEDs better than the pi can | [Cool Components](https://coolcomponents.co.uk/products/arduino-pro-mini-328-3-3v-8mhz?_pos=3&_sid=6a4299cc2&_ss=r) |
 
 
 ## Circuit Diagam 
