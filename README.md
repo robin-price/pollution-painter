@@ -42,7 +42,7 @@ Pi zero W | Raspberry Pi MCU,  get one with the header socket | [Pimoroni](https
 
 
 ## Circuit Diagam 
-![Fritzing Circuit Diagram](../images/fritzing-circuit-diagram.png)
+![Fritzing Circuit Diagram](./images/fritzing-circuit-diagram.png)
 
 ## Build instructions
 
