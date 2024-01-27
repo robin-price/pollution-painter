@@ -7,7 +7,7 @@ I built my first pollution painter in 2017 and have rebuilt, fixed and adapted i
 
 In the interests of cutting my own pollution emissions I am now open sourcing the design and instructions in the hope that you might take these photos and collaborate with me to draw attention to pollution in your environment. Please send any photos with details of date, location and observed PM2.5 levels to robin@robinprice.net
 
-Design notes
+## Design notes
 The original pollution painter was built out of scraps from other projects I had lying around my studio. It used to use a single raspberry pi 0, e-ink display and WS2811 neopixel LEDs but after the delicate e-I'll displays kept breaking I moved to using the pi 0 as a WiFi access point and reading the PM2.5 data and adjusting settings with my mobile phone. The arduino got soldered into the design after an update to raspbian made the LED timings wonky and unreliable resulting in streaky photos. Off loading the code for the lights exclusively to the Arduino made things much better and makes sense given raspbian’s non real time status. Also back when I started the project I was kindly loaned an Alphasense OPC-N2 by my long time collaborator Prof. Francis Pope. This open source design uses the cheaper and widely available nova SDS011. 
 
 I have been working on a new design built around a single raspberry pi pico and simple custom PCB that streamlines the design but this pi 0 version is presented here because you might have some of these items lying around your studio / workshop / classroom. It’s also perhaps easer to adapt or develop than the pico as you’ve a full raspbian stack with python and all its libraries as well as an Arduino to play with.
@@ -18,10 +18,10 @@ The whole device is powered from a USB battery pack with two 2.4A USB A outlets,
 
 For my original device I used three roughly two metre long strips of WS2811 30 LED per metre LED tape. These were gaffa taped together at roughly 1 cm offsets to create the illusion of a single roll of a more expensive LED tape with more LEDS. I had a ton of LED tape left lying round the studio after a previous project. This design tries to cut costs and bring it up to date with two one metre strips of 60 LED per metre Dotstar (APA 102) LEDs. I recommend taping these together so the LEDs on one strip line up with the spaces on the other to create the effect of more LEDs. I recommend getting weatherproof LEDs as sometimes it rains outdoors where you take photographs and the plastic covering doubles as a nifty light diffuser.
 
-BOM
+##BOM
 
 | Item | Description | UK Supplier Link|
-|—|—|—|
+|---|---|---|
 Pi zero w | Raspberry Pi MCU | https://shop.pimoroni.com/products/raspberry-pi-zero-w?variant=39458414264403 
 | 
 Circuit Diagam 
