@@ -64,7 +64,7 @@ There's a [Fritzing available](./fritzing/pi_pollution_painter.fzz) to show how 
 More detailed instructions are [here](./detailed-build-instructions/Pollution-Painter-Documentation-Notes.pdf) courtesy of the 'Luchtkwaliteit in Beeld' project run in Leiden with EUniwell, Margaret Gold, Carlo Luiu,Alessandro Oggioni, Francis Pope, Marin Vischer and myself. 
 
 ## How to use
-If the device works when you power up the pi, after a brief boot up period, you should be able to start and stop the LEDs twinkling by pressing the trigger button. You can log in to the pi from your phone and get a nubmer readout of the pollution levels (as well as a funky AR pollution viewer that negates the need for any of this fiddly long exposure photography / digital light painting).
+If the device works when you power up the pi, after a brief boot up period, you should be able to start and stop the LEDs twinkling by pressing the trigger button. You can connect to the pi's WiFi access point from your phone and get a nubmer readout of the pollution levels (as well as a funky AR pollution viewer that negates the need for any of this fiddly long exposure photography / digital light painting).
 
 The frontend url is  https://pollutionpainter.local
 
