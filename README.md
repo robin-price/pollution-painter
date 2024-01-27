@@ -44,6 +44,8 @@ Pi zero W | Raspberry Pi MCU,  get one with the header socket | [Pimoroni](https
 ## Circuit Diagam 
 ![Fritzing Circuit Diagram](./images/fritzing-circuit-diagram.png)
 
+There's a [Fritzing available](./fritzing/pi_pollution_painter.fzz) to show how the pi, protoboard, arduino, level shifter, LEDs and trigger are wired together. Since the Fritzing library doesn't have a part for USB battery chargers I've subsituted a wholly illustrative AA battery. Notice that for similar reasons the SDS011 and pi's USB data connection to it also missing. 
+
 ## Build instructions
 
 1. Prepare pi by soldering header strip
@@ -55,5 +57,9 @@ Pi zero W | Raspberry Pi MCU,  get one with the header socket | [Pimoroni](https
 7. Flash Arduino with code provided
 8. Flash pi sd with this image 
 9. Test and pray
+10. Hot glue the contraption to the wrist strap and take some photos
 
+## More detailed instructions
+
+More detailed instructions are [here](./detailed-build-instructions/Pollution-Painter-Documentation-Notes.pdf) courtesy of the 'Luchtkwaliteit in Beeld' project run in Leiden with EUniwell, Margaret Gold, Carlo Luiu,Alessandro Oggioni, Francis Pope, Marin Vischer and myself. 
 
