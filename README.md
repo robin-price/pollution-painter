@@ -63,3 +63,18 @@ There's a [Fritzing available](./fritzing/pi_pollution_painter.fzz) to show how 
 
 More detailed instructions are [here](./detailed-build-instructions/Pollution-Painter-Documentation-Notes.pdf) courtesy of the 'Luchtkwaliteit in Beeld' project run in Leiden with EUniwell, Margaret Gold, Carlo Luiu,Alessandro Oggioni, Francis Pope, Marin Vischer and myself. 
 
+## How to use
+If the device works when you power up the pi, after a brief boot up period, you should be able to start and stop the LEDs twinkling by pressing the trigger button. You can log in to the pi from your phone and get a nubmer readout of the pollution levels (as well as a funky AR pollution viewer that negates the need for any of this fiddly long exposure photography / digital light painting).
+
+The frontend url is  https://pollutionpainter.local
+
+The percentage brightness of the LEDs and the ms fade in and out times can be set by typing, for example.
+
+ https://pollutionpainter.local/api/set/brightness/70
+
+ https://pollutionpainter.local/api/set/fade/3000
+
+ #Key advice
+ Think about timing, long exposure photography only works well at dusk, dawn and night. Plan your photography trips. Think about why you want to take a photograph at a certain place, what does recording the pollution and visualising it here say? What is the point you are trying to make with this image? Are you trying to contrast pollution levels between two places to try and point towards pollution sources? 
+
+ When you're ready frame your image with your camera on a tripod, aim for a 10-30 second exposure and walk in front of the camera with the pollution painter. When you're in frame press the trigger once, when you think you're nearing the edge of the frame press again. Getting a good shot takes practice...
