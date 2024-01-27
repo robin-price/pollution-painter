@@ -74,7 +74,7 @@ The percentage brightness of the LEDs and the ms fade in and out times can be se
 
  https://pollutionpainter.local/api/set/fade/3000
 
- #Key advice
+ # Key advice
  Think about timing, long exposure photography only works well at dusk, dawn and night. Plan your photography trips. Think about why you want to take a photograph at a certain place, what does recording the pollution and visualising it here say? What is the point you are trying to make with this image? Are you trying to contrast pollution levels between two places to try and point towards pollution sources? 
 
  When you're ready frame your image with your camera on a tripod, aim for a 10-30 second exposure and walk in front of the camera with the pollution painter. When you're in frame press the trigger once, when you think you're nearing the edge of the frame press again. Getting a good shot takes practice...
