@@ -18,13 +18,15 @@ The whole device is powered from a USB battery pack with two 2.4A USB A outlets,
 
 For my original device I used three roughly two metre long strips of WS2811 30 LED per metre LED tape. These were gaffa taped together at roughly 1 cm offsets to create the illusion of a single roll of a more expensive LED tape with more LEDS. I had a ton of LED tape left lying round the studio after a previous project. This design tries to cut costs and bring it up to date with two one metre strips of 60 LED per metre Dotstar (APA 102) LEDs. I recommend taping these together so the LEDs on one strip line up with the spaces on the other to create the effect of more LEDs. I recommend getting weatherproof LEDs as sometimes it rains outdoors where you take photographs and the plastic covering doubles as a nifty light diffuser.
 
-##BOM
+## BOM
 
 | Item | Description | UK Supplier Link|
 |---|---|---|
 Pi zero w | Raspberry Pi MCU | https://shop.pimoroni.com/products/raspberry-pi-zero-w?variant=39458414264403 
-| 
-Circuit Diagam 
+| Extensible fishing pole | To stick the LED strip to | https://www.amazon.co.uk/dp/B017NQZZ2Q?psc=1&ref=ppx_yo2ov_dt_b_product_details |
+
+
+## Circuit Diagam 
 
 1. Prepare pi by soldering header strip
 2. Solder Arduino and level shifter (or just header strip and tape depending how confident you feel)
